@@ -5,3 +5,11 @@
 body{
     background-color:lightgreen;
 }
+
+.border-solid {
+border: 2px solid black;
+}
+
+.second{
+    color: blue;
+}
